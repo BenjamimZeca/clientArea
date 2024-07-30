@@ -1,0 +1,1 @@
+{{Auth::user()->nome}} {{Auth::user()->apelido}}
